@@ -13,5 +13,44 @@
     "description": "Headquarters of Buy Food with Plastic in Zürich.",
     "website": "https://buyfoodwithplastic.org",
     "lastUpdated": "2025-12-25"
+  },
+  {
+    "id": "hq-nicaragua",
+    "name": "Buy Food with Plastic Nicaragua",
+    "type": "HQ",
+    "country": "Nicaragua",
+    "region": "Rivas",
+    "city": "La Virgen",
+    "address": "La Virgen, Rivas, Nicaragua",
+    "lat": 11.84,
+    "lng": -85.833,
+    "status": "active",
+    "description": "Country operations hub for Buy Food with Plastic in Nicaragua."
+  },
+  {
+    "id": "hq-ghana",
+    "name": "Buy Food with Plastic Ghana",
+    "type": "HQ",
+    "country": "Ghana",
+    "region": "Central Region",
+    "city": "Elmina",
+    "address": "Elmina, Central Region, Ghana",
+    "lat": 5.084,
+    "lng": -1.35,
+    "status": "active",
+    "description": "Country operations hub for Buy Food with Plastic in Ghana."
+  },
+  {
+    "id": "hq-india",
+    "name": "Buy Food with Plastic India",
+    "type": "HQ",
+    "country": "India",
+    "region": "Maharashtra",
+    "city": "Mumbai",
+    "address": "Mumbai, Maharashtra, India",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "status": "active",
+    "description": "Country operations hub for Buy Food with Plastic in India."
   }
 ]
