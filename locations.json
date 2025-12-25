@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hq-zurich",
+    "name": "Headquarters — Buy Food with Plastic",
+    "type": "HQ",
+    "country": "Switzerland",
+    "region": "Zurich",
+    "city": "Zürich",
+    "address": "Feldstrasse 42, 8004 Zürich, Switzerland",
+    "lat": 47.3771,
+    "lng": 8.5266,
+    "status": "active",
+    "description": "Headquarters of Buy Food with Plastic in Zürich.",
+    "website": "https://buyfoodwithplastic.org",
+    "lastUpdated": "2025-12-25"
+  }
+]
